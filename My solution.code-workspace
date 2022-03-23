@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../Downloads/interactive-comments-section-main/My solution"
+	},
+	{
+		"path": "../Downloads/interactive-comments-section-main/images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "My solution",
+    "liveServer.settings.port": 5502
+  }
+}
